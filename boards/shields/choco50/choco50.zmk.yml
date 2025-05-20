@@ -1,0 +1,11 @@
+file_format: "1"
+id: choco50
+name: choco50
+type: shield
+url: https://github.com/IwasakiYuuki/choco50/
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - choco50_left
+  - choco50_right
