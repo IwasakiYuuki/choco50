@@ -35,7 +35,7 @@
 &kp ESC   &trans   &trans  &trans   &trans   &trans      &trans    &trans    &trans    &trans    &trans    &trans
 &kp LCTRL &kp A    &kp S   &kp D    &kp F    &kp G       &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT &kp RPAR  &kp TILDE
 &kp LSHFT &kp F11  &kp F12 &kp C    &kp V    &kp B       &kp HOME  &kp PG_DN &kp PG_UP &kp END   &kp RBKT  &kp GRAVE
-                                    &mo 3    &LGUI       &trans    &trans
+                                    &mo 3    &kp LGUI    &trans    &trans
             >;
         };
 
