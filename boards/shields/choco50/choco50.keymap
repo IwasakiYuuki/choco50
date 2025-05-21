@@ -33,9 +33,9 @@
             bindings = <
           &kp F1   &kp F2  &kp F3   &kp F4   &kp F5      &kp F6    &kp F7    &kp F8    &kp F9    &kp F10
 &kp ESC   &trans   &trans  &trans   &trans   &trans      &trans    &trans    &trans    &trans    &trans    &trans
-&kp LCTRL &kp EXCL &kp AT  &kp HASH &kp DLLR &kp PRCNT   &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT &kp RPAR  &kp TILDE
+&kp LCTRL &kp A    &kp S   &kp D    &kp F    &kp G       &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT &kp RPAR  &kp TILDE
 &kp LSHFT &kp F11  &kp F12 &kp C    &kp V    &kp B       &kp HOME  &kp PG_DN &kp PG_UP &kp END   &kp RBKT  &kp GRAVE
-                                    &mo 3    &trans      &trans    &trans
+                                    &mo 3    &LGUI       &trans    &trans
             >;
         };
 
